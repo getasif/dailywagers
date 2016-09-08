@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/done_black.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/done_black.png"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/clear_black.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/clear_black.png"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/img_present.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/img_present.png"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/slide_show.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/slide_show.png"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/delete_profile.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/delete_profile.png"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/edit_profle.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/edit_profle.png"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/img_absent.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/img_absent.png"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/date_range.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/date_range.png"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/drawable-hdpi/edit_mode.png",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/drawable-hdpi/edit_mode.png"
+    }
+]

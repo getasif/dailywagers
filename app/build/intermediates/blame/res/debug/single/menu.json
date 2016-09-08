@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/menu/fragment_check_menu.xml",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/menu/fragment_check_menu.xml"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/menu/fragment_profile_menu.xml",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/menu/fragment_profile_menu.xml"
+    },
+    {
+        "merged": "/home/asif/Downloads/rr/dailywagers/app/build/intermediates/res/merged/debug/menu/activity_home_menu.xml",
+        "source": "/home/asif/Downloads/rr/dailywagers/app/src/main/res/menu/activity_home_menu.xml"
+    }
+]
