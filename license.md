@@ -1,6 +1,6 @@
 1 MIT License
   2 
-  3 Copyright (c) 2016 Asif N and Rishiraj Randive
+  3 Copyright (c) 2016 Asif N.
   4 
   5 Permission is hereby granted, free of charge, to any person obtaining a copy
   6 of this software and associated documentation files (the "Software"), to deal
